@@ -1,6 +1,6 @@
 @xw.sub
 def facilityIndexs():
-    url="https://public-crest.eveonline.com/industry/systems/"
+    url="https://crest-tq.eveonline.com/industry/systems/"
     wb = Workbook.caller()
     sheet = xw.Sheet('Indexes')
     
